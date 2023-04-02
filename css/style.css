@@ -1,0 +1,224 @@
+/* Body */
+
+
+/* Banner */
+.banner-image {
+    background-image: url('../img/background/bg2.png');
+    background-size: cover;
+}
+
+.btn-brown {
+    background-color: whitesmoke;
+    color: #252525;
+    font-weight: bold;
+}
+
+.nav-brown {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.brown {
+    color: whitesmoke;
+}
+
+/* About Us */
+
+.about-head {
+    color: whitesmoke;
+}
+.about-head h1 {
+    font-size: 96px;
+    font-weight: 700;
+}
+
+.about-head p {
+    font-size: 24px;
+    padding: 10px 354px 10px 354px;
+}
+
+.cta .button-bukalapak {
+    height: 20px;
+}
+
+/* Best Seller */
+
+.best-seller {
+    margin: 150px 0 150px 0;
+}
+
+.best-seller h1 {
+    font-size: 40px;
+}
+
+.best-seller div > hr {
+    align-items: center;
+    text-align: center;
+    width: 227px;
+    height: 5px;
+    background-color: #252525;
+    opacity: 100%;
+    margin: auto;
+}
+
+.best-seller p {
+    font-size: 24px;
+}
+
+.produk {
+    margin-top: 50px;
+}
+
+.card-product {
+    font-size: 24px;
+}
+
+/* about us */
+
+section.about-us{
+    background-size: cover;
+    background-color: #FFFCF8;
+}
+
+.about-us h1 {
+    font-size: 96px;
+    font-weight: 700;
+}
+
+.about-us hr {
+    width: 227px;
+    height: 5px;
+    background-color: #252525;
+    opacity: 100%;
+    margin-left: 5px;
+}
+
+.about-us p {
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+.text-kiri{
+    padding-top: 80px;
+}
+
+.foto-kanan {
+    /* background-image: url('../img/background/bg3.png');
+    height: 712px;
+    width: 712; */
+    padding: 50px;
+}
+
+.foto-kanan img {
+    display: block;
+    max-width: 100%;
+}
+
+.social-media{
+    margin-left: 5px;
+}
+
+/* our tim */
+section.our-team {
+    background-image: url('../img/background/bg4.png');
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.team-head {
+    padding-top: 100px;
+}
+
+.our-team h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+.our-team hr {
+    width: 180px;
+    height: 5px;
+    background-color: whitesmoke;
+    opacity: 100%;
+    margin: auto;
+}
+
+.our-team .text-card{
+    font-size: 18px;
+    padding: 10px 25% 20px 25%;
+    text-align: center;
+}
+
+.card-our-team {
+    padding-bottom: 100px;
+}
+
+.card-our-team b {
+    font-size: 24px;
+}
+
+/* review */
+
+.review {
+    padding: 100px 0 100px 0;
+    background-color: #FFFCF8;
+}
+
+.review .judul-kiri {
+    padding-top: 250px;
+}
+
+.review .judul {
+    font-size: 64px;
+}
+
+.review .sub-judul {
+    font-size: 24px;
+}
+.review .card {
+    flex-direction: row;
+    margin: 10px;
+
+}
+
+.review .card img {
+    width: auto;
+    min-height: 100px;
+    max-height: 150px;
+    margin: 20px;
+}
+
+.review .card .card-body .card-text {
+    margin-top: -30px;
+}
+
+/* contact-us */
+
+.contact-us h3 {
+    padding-top: 50px;
+}
+
+.contact-us hr {
+    margin: auto;
+    height: 5px;
+    width: 160px;
+    opacity: 100%;
+    color: #252525;
+    margin-bottom: 30px;
+}
+
+.logo-item {
+    font-size: 24px;
+    margin: 10px;
+    margin-bottom: 50px;
+}
+
+footer {
+    text-align: center;
+    font-size: 18px;
+    background-color: #252525;
+    color: whitesmoke;
+}
+
+footer .baris {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
